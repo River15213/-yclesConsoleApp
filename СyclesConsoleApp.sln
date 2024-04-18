@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "СyclesConsoleApp", "СyclesConsoleApp\СyclesConsoleApp.csproj", "{5722DFCD-D81E-43A5-8296-05ECE35D87F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameTwentyOneConsoleApp", "GameTwentyOneConsoleApp\GameTwentyOneConsoleApp.csproj", "{635AEB6E-85E4-4BF3-9DDF-C426A098D337}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleNumberConsoleApp1", "SimpleNumberConsoleApp1\SimpleNumberConsoleApp1.csproj", "{3265ED84-7B58-4C34-AC35-29E3D9EB8EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberSequencesConsoleApp1", "MinimumNumberSequencesConsoleApp1\MinimumNumberSequencesConsoleApp1.csproj", "{21606CBA-92E1-44B7-AA3D-6BA5682FC846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberConsoleApp1", "GuessNumberConsoleApp1\GuessNumberConsoleApp1.csproj", "{83044171-DF53-473C-B3A2-C2508FB376D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5722DFCD-D81E-43A5-8296-05ECE35D87F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5722DFCD-D81E-43A5-8296-05ECE35D87F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5722DFCD-D81E-43A5-8296-05ECE35D87F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5722DFCD-D81E-43A5-8296-05ECE35D87F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635AEB6E-85E4-4BF3-9DDF-C426A098D337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635AEB6E-85E4-4BF3-9DDF-C426A098D337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635AEB6E-85E4-4BF3-9DDF-C426A098D337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635AEB6E-85E4-4BF3-9DDF-C426A098D337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3265ED84-7B58-4C34-AC35-29E3D9EB8EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3265ED84-7B58-4C34-AC35-29E3D9EB8EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3265ED84-7B58-4C34-AC35-29E3D9EB8EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3265ED84-7B58-4C34-AC35-29E3D9EB8EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21606CBA-92E1-44B7-AA3D-6BA5682FC846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21606CBA-92E1-44B7-AA3D-6BA5682FC846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21606CBA-92E1-44B7-AA3D-6BA5682FC846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21606CBA-92E1-44B7-AA3D-6BA5682FC846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83044171-DF53-473C-B3A2-C2508FB376D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83044171-DF53-473C-B3A2-C2508FB376D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83044171-DF53-473C-B3A2-C2508FB376D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83044171-DF53-473C-B3A2-C2508FB376D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8463DE23-70D6-460D-BDB8-35551D27024C}
+	EndGlobalSection
+EndGlobal
